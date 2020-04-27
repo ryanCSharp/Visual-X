@@ -7,6 +7,7 @@ A Synapse X Custom UI.
 1. Download as .ZIP
 2. Extract the downloaded ZIP in your Synapse-X directory.
 3. Extract Monaco.rar in the Synapse directory.
+4. Download vsXbin folder and put it in your Synapse directory.
 4. You're ready to go!
 
 In the end, your Synapse-X directory should look like this:
