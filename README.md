@@ -1,5 +1,5 @@
 # Visual-X
-A Custom UI.
+A Custom User Interface designed for the ROBLOX Scripting Utility Tool: Synapse X.
 
 
 # Installation
